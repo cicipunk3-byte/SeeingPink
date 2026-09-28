@@ -1,0 +1,40 @@
+# ThinkPink packaging license (staging copy for the fresh public repo)
+
+## The short version
+
+ThinkPink is free for everyone. Use it, share it, rebuild it, learn
+from it. Nobody sells this exact packaging; if you want to sell
+something, build your own.
+
+## The license
+
+The ThinkPink packaging layer (the governance modules, the reskin, and
+the desktop wrapper built by the Stardust Lab) is released under
+
+    CC BY-NC-SA 4.0
+    https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+That means, in plain terms:
+
+- **BY (Attribution).** Credit where it came from.
+- **NC (NonCommercial).** Commercial use is excluded. Nobody may sell
+  this packaging or charge for it.
+- **SA (ShareAlike).** Anything built from this packaging carries the
+  same terms: free and noncommercial, all the way down.
+
+Copyright for the ThinkPink packaging layer: The ThinkPink builders.
+
+## What this license does NOT cover
+
+- **Hindsight** (github.com/vectorize-io/hindsight, by Vectorize AI,
+  Inc.) is MIT licensed and remains under its own license, untouched
+  and credited. Their MIT is what makes this build possible.
+- The vellum-assistant shell and the lab's other open tools carry
+  their own licenses (MIT), stated in their own repositories.
+
+## The spirit clause
+
+This project exists because the people who built it chose not to
+profit from it. The license enforces the letter. The hope, stated
+plainly: if you build on this, build on your own thinking, and keep
+what you make free.
