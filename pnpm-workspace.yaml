@@ -70,6 +70,9 @@ autoInstallPeers: false
 
 onlyBuiltDependencies:
   - '@swc/core'
+  - electron
+  - electron-builder
+  - electron-builder-squirrel-windows
   - esbuild
   - llama.rn
   - msw
@@ -162,9 +165,3 @@ overrides:
   # orval pins js-yaml to an exact version older than the CVE fix (>=4.3.2)
   js-yaml: '4.3.2'
 
-# Postinstall allowlist: esbuild places its binary; electron downloads the runtime
-onlyBuiltDependencies:
-  - esbuild
-  - electron
-  - electron-builder
-  - electron-builder-squirrel-windows
