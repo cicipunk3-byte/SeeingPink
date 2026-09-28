@@ -55,8 +55,8 @@ already own is the honest version of that math.
    small enough to run on an ordinary laptop.
 3. **Get ThinkPink.** Download it from the project's public
    repository (link in the flyer above) and follow the install steps
-   in its README. Unsigned beta build: the first launch needs one
-   Terminal step, spelled out there.
+   in its README. Ad-hoc signed beta build: if macOS asks on first
+   launch, right-click the app and choose Open.
 4. **Open ThinkPink.** It finds Ollama on its own. When you see the
    local-model indicator, you are connected to the model on your
    machine.
