@@ -47,4 +47,4 @@ The desktop package target uses electron-builder; see
 `app/package.json`. The startup guide walks through the model side
 (Ollama) step by step.
 
-## In honorable and esteemed memory of Aaron Schwartz. https://en.wikipedia.org/wiki/Aaron_Swartz - C. Pink
+## In honorable and esteemed memory of Aaron Swartz. https://en.wikipedia.org/wiki/Aaron_Swartz - C. Pink
