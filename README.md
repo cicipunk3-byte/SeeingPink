@@ -43,8 +43,8 @@ npm run build
 
 ```
 
-## In honorable and esteemed memory of Aaron Schwartz. https://en.wikipedia.org/wiki/Aaron_Swartz - C. Pink
-
 The desktop package target uses electron-builder; see
 `app/package.json`. The startup guide walks through the model side
 (Ollama) step by step.
+
+## In honorable and esteemed memory of Aaron Schwartz. https://en.wikipedia.org/wiki/Aaron_Swartz - C. Pink
